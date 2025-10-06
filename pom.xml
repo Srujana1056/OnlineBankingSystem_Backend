@@ -8,7 +8,7 @@
   <groupId>com.example</groupId>
   <artifactId>banking-backend</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>banking-backend</name>
   <description>Spring Boot backend for banking system</description>
